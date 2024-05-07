@@ -2,8 +2,11 @@
 
 
 ## Description
-Projet de partage de code javascript pour les utiliser comme base de création d'exercices 
+
+Projet de partage de codes javascript pour les utiliser comme base de création d'exercices 
 de javascript pour la plateforme platon.
+
+Les fichiers doivent respecter la normal PLATON de splicode.
 
 
 ## Installation
